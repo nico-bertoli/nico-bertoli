@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity and Unreal Engine development**
 
-- 📫 How to reach me **nicobertoli.1999@gmail.com**
+- 📫 You can contact me here: **nicobertoli.1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
