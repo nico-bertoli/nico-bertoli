@@ -7,7 +7,7 @@
 
 - 📫 You can contact me here: **nicobertoli.1999@gmail.com**
 
-- Here is my linkedin profile: **https://linkedin.com/in/nicolò-bertoli**
+- Linkedin profile: **https://linkedin.com/in/nicolò-bertoli**
 
 
 <h3 align="left">Languages and Tools:</h3>
