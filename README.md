@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicoló Bertoli,</h1>
+<h1 align="center">Hi, I'm Nicoló Bertoli,</h1>
 <h3 align="center">a game developer from Italy</h3>
 
 - 📫 How to reach me **nicobertoli.1999@gmail.com**
