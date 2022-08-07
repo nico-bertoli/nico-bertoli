@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Nicoló Bertoli,</h1>
 <h3 align="center">a game developer from Italy</h3>
 
+- 🎓Bachelor's degree in Computer Science **at University of Parma**
+
+- 🌱 I’m currently learning **Unity and Unreal Engine development**
+
 - 📫 How to reach me **nicobertoli.1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
