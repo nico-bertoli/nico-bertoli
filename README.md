@@ -9,7 +9,7 @@
 
 - 👾 Itch.io: https://nicobertoli.itch.io/
 
-- Linkedin: **https://linkedin.com/in/nicolò-bertoli**
+- 🤝 Linkedin: **https://linkedin.com/in/nicolò-bertoli**
 
 
 <h3 align="left">Game engines:</h3>
