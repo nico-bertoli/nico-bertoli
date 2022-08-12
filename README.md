@@ -7,7 +7,9 @@
 
 - 📫 You can contact me here: **nicobertoli.1999@gmail.com**
 
-- Linkedin profile: **https://linkedin.com/in/nicolò-bertoli**
+- Itch.io: https://nicobertoli.itch.io/
+
+- Linkedin: **https://linkedin.com/in/nicolò-bertoli**
 
 
 <h3 align="left">Game engines:</h3>
