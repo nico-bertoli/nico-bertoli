@@ -7,7 +7,7 @@
 
 - 📫 You can contact me here: **nicobertoli.1999@gmail.com**
 
-- Itch.io: https://nicobertoli.itch.io/
+- 🎮 Itch.io: https://nicobertoli.itch.io/
 
 - Linkedin: **https://linkedin.com/in/nicolò-bertoli**
 
