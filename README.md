@@ -7,9 +7,9 @@
 
 - 📫 You can contact me here: **nicobertoli.1999@gmail.com**
 
-- 📑 CV: https://drive.google.com/drive/folders/1t83Hhx-desue_a1tu8I543SVSNh54SNQ?usp=sharing
+- 📑 CV: **https://drive.google.com/drive/folders/1t83Hhx-desue_a1tu8I543SVSNh54SNQ?usp=sharing**
 
-- 👾 Itch.io: https://nicobertoli.itch.io/
+- 👾 Itch.io: **https://nicobertoli.itch.io/**
 
 - 🤝 Linkedin: **https://linkedin.com/in/nicolò-bertoli**
 
