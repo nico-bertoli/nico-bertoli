@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Nicoló Bertoli, a game developer from Italy</h1>
+<h1 align="center">Hi! I'm Nicoló, a game developer from Italy</h1>
 
 🎓Bachelor's degree in Computer Science at [University of Parma](https://corsi.unipr.it/en/cdl-info)
 
