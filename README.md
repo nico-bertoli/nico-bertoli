@@ -10,11 +10,6 @@
 
 📑Portfolio: **https://nico-bertoli.github.io/**
 
-👾 Itch.io: **https://nicobertoli.itch.io/**
-
-🤝 Linkedin: **https://linkedin.com/in/nicolò-bertoli**
-
-
 <h3 align="left">Game engines:</h3>
 <p align="left">
   
