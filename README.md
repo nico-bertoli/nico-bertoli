@@ -1,16 +1,16 @@
 <h1 align="center">Hi! I'm Nicoló Bertoli, a game developer from Italy</h1>
 
-- 🎓Bachelor's degree in Computer Science **at University of Parma**
+🎓Bachelor's degree in Computer Science **at University of Parma**
 
-- 🌱 I’m currently learning **Unity and Unreal Engine development**
+🌱 I’m currently learning **Unity and Unreal Engine development**
 
-- 📫 You can contact me here: **nicobertoli.1999@gmail.com**
+📫 You can contact me here: **nicobertoli.1999@gmail.com**
 
-- 📑 My CV: **https://drive.google.com/drive/folders/1t83Hhx-desue_a1tu8I543SVSNh54SNQ?usp=sharing**
+📑 My CV: **https://drive.google.com/drive/folders/1t83Hhx-desue_a1tu8I543SVSNh54SNQ?usp=sharing**
 
-- 👾 Itch.io: **https://nicobertoli.itch.io/**
+👾 Itch.io: **https://nicobertoli.itch.io/**
 
-- 🤝 Linkedin: **https://linkedin.com/in/nicolò-bertoli**
+🤝 Linkedin: **https://linkedin.com/in/nicolò-bertoli**
 
 
 <h3 align="left">Game engines:</h3>
