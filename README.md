@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Nicoló Bertoli, a game developer from Italy</h1>
 
-🎓Bachelor's degree in Computer Science **at University of Parma**
+🎓Bachelor's degree in Computer Science at [University of Parma](https://corsi.unipr.it/en/cdl-info)
 
-🌱 I’m currently learning **Unity and Unreal Engine development**
+🌱 I’m currently studying **Unity and Unreal Engine development**
 
 📑[CV/Portfolio](https://nico-bertoli.github.io/)
 
