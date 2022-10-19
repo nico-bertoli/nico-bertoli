@@ -4,6 +4,6 @@
 
 🌱 I’m currently learning **Unity and Unreal Engine development**
 
-📑CV/Portfolio: **https://nico-bertoli.github.io/**
+📑[CV/Portfolio](https://nico-bertoli.github.io/)
 
 📫 **nicobertoli.1999@gmail.com**
