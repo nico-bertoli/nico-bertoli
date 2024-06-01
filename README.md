@@ -1,6 +1,5 @@
 <h1 align="center">Welcome to my GitHub page!</h1>
 
-👾 Currently working at Miniclip <br>
 📑 [Portfolio](https://nico-bertoli.github.io/) <br>
 📫 [nicobertoli.1999@gmail.com](nicobertoli.1999@gmail.com) <br>
 <body>
