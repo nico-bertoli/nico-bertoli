@@ -1,6 +1,5 @@
 <h1 align="center">Welcome!</h1>
 
-📑 [Portfolio](https://nico-bertoli.github.io/) <br>
 📫 [nicobertoli.1999@gmail.com](nicobertoli.1999@gmail.com) <br>
 <body>
     <div class="ascii-art">
