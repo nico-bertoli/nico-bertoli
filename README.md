@@ -5,10 +5,10 @@
 <body>
     <div class="ascii-art">
         <pre>
-                                                  ／l、             
-                                                 （ﾟ､ ｡ ７         
-                                                  l  ~ヽ       
-                                                  じしf_,)ノ
+ ／l、             
+（ﾟ､ ｡ ７         
+ l  ~ヽ       
+ じしf_,)ノ
         </pre>
     </div>
 </body>
