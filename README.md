@@ -1,2 +1,1 @@
-📗 Bachelor's degree in Computer Science, University of Parma <br>
-💻 Working at Vislab as a C++ developer <br>
+I’m a C++ developer with experience in the game industry, currently developing Qt applications in the autonomous driving sector.
